@@ -8,3 +8,9 @@
     gap: 20px;
     margin: 50px;
 }
+.cart-container{
+    background-color: orange
+}
+.cart-container h2{
+    padding: 10px;
+}
